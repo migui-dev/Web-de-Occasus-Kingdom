@@ -12,7 +12,6 @@ export function VideoSection() {
   return (
     <Section id = "video" className = "gradient-bg-1">
       <SectionHeader title = {t('video.title')} />
-      // Contenedor del vídeo.
       <motion.div
         className = "aspect-video max-w-4xl mx-auto rounded-xl overflow-hidden shadow-2xl border-2 border-accent/20"
         initial = {{ opacity: 0, scale: 0.9 }}
