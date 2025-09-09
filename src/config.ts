@@ -1,0 +1,31 @@
+export const CONFIG = {
+  eventName: 'Occasus Kingdom',
+  fechaEvento: { year: 2025, month: 10, day: 28, hours: 10, minutes: 0 },
+  heroImage: '/galeria0.jpg',
+  ctaPrimaryUrl: '#asistencia',
+  ctaSecondaryUrl: '#programa',
+  videoEmbedUrl: 'https://www.youtube.com/embed/EBPOcEIUh7s',
+  contactInfo: {
+    phone: '(+34) 689 68 11 14',
+    phoneLink: 'tel:+34689681114',
+    email: 'info@joyfiesta.com',
+    emailLink: 'mailto:info@joyfiesta.com',
+  },
+  social: { instagram: 'https://instagram.com/occasuskingdom' },
+  features: {
+    tickets: true, schedule: true, guests: true, lore: true,
+    gallery: true, faq: true, map: true, contact: true, dossier: true, organization: true,
+  },
+  galleryImages: Array.from({ length: 14 }, (_, i) => `/galeria${i}.jpg`),
+  map: { googleMapsEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12678.962804514337!2d-5.991207611096112!3d37.42081977926343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1268b8a1303863%3A0x7433857508752814!2sParque%20del%20Alamillo!5e0!3m2!1ses!2ses!4v1694189332502!5m2!1ses!2ses" },
+  navLinks: [
+    { id: 'asistencia', href: '#asistencia', feature: 'tickets' },
+    { id: 'schedule', href: '#programa', feature: 'schedule' },
+    { id: 'guests', href: '#invitados', feature: 'guests' },
+    { id: 'lore', href: '#lore', feature: 'lore' },
+    { id: 'gallery', href: '#galeria', feature: 'gallery' },
+    { id: 'faq', href: '#faq', feature: 'faq' },
+    { id: 'contact', href: '#contacto', feature: 'contact' },
+    { id: 'dossier', href: '/dossier', feature: 'dossier' },
+  ],
+};
