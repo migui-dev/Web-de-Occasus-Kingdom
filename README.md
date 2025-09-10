@@ -61,6 +61,6 @@ La aplicación estará disponible en `http://localhost:5173`.
 -   **Despliegue:**
     El proyecto está configurado para un despliegue automático en **Netlify** a través de GitHub. Cualquier `push` a la rama `main` iniciará un nuevo despliegue.
 
-## 📄 Licencia
+## 📄 | Licencia
 
 Este proyecto está bajo la Licencia MIT.
