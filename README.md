@@ -1,7 +1,7 @@
 # 🏰 | Occasus Kingdom - Web Oficial
 Página web promocional para el evento de feria medieval "Occasus Kingdom". Desarrollada como una aplicación de página única (SPA) moderna, totalmente responsive y con soporte multi-idioma, construida con React y Vite.
 
-**Visita la web en vivo: [Occasus Kingdom]** *(https://occasuskingdom.netlify.app/)*
+**Visita la web en vivo: https://occasuskingdom.netlify.app/**
 
 ## ✨ | Características Principales
 -   **Diseño 100% Responsive:** Totalmente funcional y estético en dispositivos de escritorio, tablets y móviles.
