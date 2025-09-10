@@ -30,7 +30,7 @@ Sigue estos pasos para ejecutar el proyecto en tu propio ordenador.
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/migui-dev/Web-de-Occasus-Kingdom.git](https://github.com/migui-dev/Web-de-Occasus-Kingdom.git)
+    git clone https://github.com/migui-dev/Web-de-Occasus-Kingdom.git
     ```
 
 2.  **Navega a la carpeta del proyecto:**
